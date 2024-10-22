@@ -1,0 +1,10 @@
+pepe;elsech;Admin
+BobJohnson;helloWorld;Usuario Generico
+EveMartinez;mySecret;Usuario Generico
+HenryWalker;letmein;Usuario Generico
+IsaiasCabrera;qwertyui;Admin
+CarolDavis;safePassword;Usuario Generico
+GraceLewis;welcome1;Usuario Generico
+DavidMiller;winterIsComing;Usuario Generico
+AliceBrown;summer2024;Usuario Generico
+FrankClark;pass1234;Usuario Generico
